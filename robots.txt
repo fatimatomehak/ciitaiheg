@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahjienaef.scramblingaround.eu/sitemap.xml
